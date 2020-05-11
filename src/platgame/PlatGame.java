@@ -1,3 +1,5 @@
+//Any code that is not mine is from Warmful Developments LWJGL 3 tutorial
+//https://github.com/WarmfulDevelopment/LWJGL-3-Tutorial
 package platgame;
 import org.lwjgl.glfw.GLFW;
 import static org.lwjgl.glfw.GLFW.*;

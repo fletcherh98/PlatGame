@@ -2,13 +2,6 @@
 <project-private xmlns="http://www.netbeans.org/ns/project-private/1">
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
-        <group>
-            <file>file:/C:/Users/Fletcher/Documents/NetBeansProjects/PlatGame/src/platgame/gui/GUI.java</file>
-            <file>file:/C:/Users/Fletcher/Documents/NetBeansProjects/PlatGame/src/platgame/PlatGame.java</file>
-            <file>file:/C:/Users/Fletcher/Documents/NetBeansProjects/PlatGame/src/platgame/gui/WeaponSwap.java</file>
-            <file>file:/C:/Users/Fletcher/Documents/NetBeansProjects/PlatGame/src/platgame/gui/HealthBar.java</file>
-            <file>file:/C:/Users/Fletcher/Documents/NetBeansProjects/PlatGame/src/platgame/gui/Button.java</file>
-            <file>file:/C:/Users/Fletcher/Documents/NetBeansProjects/PlatGame/src/platgame/world/Tile.java</file>
-        </group>
+        <group/>
     </open-files>
 </project-private>
