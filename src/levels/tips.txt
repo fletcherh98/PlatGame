@@ -1,0 +1,19 @@
+tiles.png creates the tile layout for the level.
+
+entities.png creates the entity layout.
+the r value of each pixel determines the tile or entity type
+for entities:
+1 = player
+2-4 = regular monster types
+5 = boss monster
+6-7 = items
+8 = level completion orb
+9-11 = npcs
+
+the top-right pixel in the tiles.png will be the default background tile. if it isn't filled in (as in a white pixel) it will
+default to being an all black tile
+
+there's a bizarre bug where if tiles.png image has less than 16 distinct rgb values,
+the bufferedImage "flattens" and makes them go to nearest 3rd value floored (eg 7,0,0 becomes 5,0,0)
+i dont know what causes this or how to prevent it other than having some dummy pixels in tiles.png 
+with r values that will go the default
